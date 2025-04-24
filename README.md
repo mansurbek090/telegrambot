@@ -19,3 +19,4 @@ Kino olamidagi yangi loyihalardan birinchilardan bo‘lib xabardor bo‘ling!
 🧩 Tavsiya tizimi
 Qanday filmni tomosha qilishni bilmayapsizmi? Movietimebotga sizning qiziqishlaringizga mos filmlar va seriallarni tavsiya qiladi.
 # kinobot
+# kinobot
