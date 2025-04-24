@@ -9,7 +9,7 @@ BOT_TOKEN = "7995252330:AAE6I_spf1CiEmpYDl0HlrAUPlyLVkOw1AY"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
-
+//salom//
 kino_baza = {}
 
 @dp.message(Command("start"))
